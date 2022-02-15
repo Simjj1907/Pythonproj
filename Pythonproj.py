@@ -7,11 +7,11 @@ b = "Singapore"
 c = "Vietnam"
 d = "Indonesia"
 
-while x <= 108 {
+'''while x <= 108 {
     Singapore = sum
     Vietname = sum
 
-p = max()
+p = max()'''
 }
 
 table = {
